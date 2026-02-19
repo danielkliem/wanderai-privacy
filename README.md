@@ -41,19 +41,19 @@ Please read this Privacy Policy carefully. If you do not agree with our policies
 - **What:** If you purchase a subscription, payment and subscription information is handled by RevenueCat.
 - **How it's used:** To manage your subscription status and access levels.
 - **Storage:** RevenueCat handles all payment data. WanderAI does not store payment information.
-- **Third party:** See RevenueCat's Privacy Policy: https://www.revenuecat.com/privacy
+- **Third party:** See RevenueCat's Privacy Policy: <a href="https://www.revenuecat.com/privacy">https://www.revenuecat.com/privacy</a>
 
 ---
 
 ## 3. How We Use Your Information
 
 We use collected information to:
-- ✅ Provide real-time landmark identification and storytelling
-- ✅ Personalize your experience based on your interests
-- ✅ Manage your subscription and app access
-- ✅ Improve and optimize the app's performance
-- ✅ Troubleshoot technical issues
-- ✅ Ensure compliance with our Terms of Service
+- Provide real-time landmark identification and storytelling
+- Personalize your experience based on your interests
+- Manage your subscription and app access
+- Improve and optimize the app's performance
+- Troubleshoot technical issues
+- Ensure compliance with our Terms of Service
 
 ---
 
@@ -64,30 +64,30 @@ WanderAI uses the following third-party services:
 ### 4.1 Google Gemini API
 - **Purpose:** Real-time image analysis and tour guide content generation
 - **Data Shared:** Images you photograph
-- **Privacy Policy:** https://policies.google.com/privacy
+- **Privacy Policy:** <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>
 - **No Data Storage:** Images are not stored by WanderAI; they are processed and deleted by Google according to their policies
 
 ### 4.2 RevenueCat
 - **Purpose:** Subscription management and in-app purchase processing
 - **Data Shared:** Subscription preferences and entitlements
-- **Privacy Policy:** https://www.revenuecat.com/privacy
+- **Privacy Policy:** <a href="https://www.revenuecat.com/privacy">https://www.revenuecat.com/privacy</a>
 - **Payment Processing:** All payment data is encrypted and processed securely
 
 ### 4.3 Flutter & Firebase (Potentially)
 - **Purpose:** Analytics and crash reporting (if enabled)
 - **Data Shared:** App performance metrics, errors, usage statistics
-- **Privacy Policy:** https://firebase.google.com/support/privacy
+- **Privacy Policy:** <a href="https://firebase.google.com/support/privacy">https://firebase.google.com/support/privacy</a>
 
 ---
 
 ## 5. Data Security
 
 We implement industry-standard security measures:
-- ✅ All data transmitted to third-party APIs uses HTTPS encryption
-- ✅ No personal data is stored on WanderAI servers
-- ✅ Your photos remain only on your device
-- ✅ Location data is processed locally, not uploaded
-- ✅ Subscription data is encrypted and handled by RevenueCat
+- All data transmitted to third-party APIs uses HTTPS encryption
+- No personal data is stored on WanderAI servers
+- Your photos remain only on your device
+- Location data is processed locally, not uploaded
+- Subscription data is encrypted and handled by RevenueCat
 
 **Limitation:** No method of transmission over the internet or electronic storage is 100% secure. We cannot guarantee absolute security.
 
@@ -124,9 +124,8 @@ Your continued use of the App after any changes constitutes your acceptance of t
 
 If you have questions about this Privacy Policy, please contact us:
 
-**Email:** privacy@wanderai.app  
-**Project:** WanderAI - Immersive Audio Tour Guide  
-**GitHub:** https://github.com/danielkliem/WanderAI
+**Email:** <a href="mailto:privacy@wanderai.app">privacy@wanderai.app</a>  
+**Website:** <a href="https://www.wanderai.app">www.wanderai.app</a>
 
 ---
 
