@@ -1,4 +1,4 @@
-# Privacy Policy - WanderAI
+# Privacy Policy - PathAIve
 
 **Last Updated:** February 19, 2026  
 **Effective Date:** February 19, 2026
@@ -7,7 +7,7 @@
 
 ## 1. Overview
 
-WanderAI ("App", "we", "us", or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and related services.
+PathAIve ("App", "we", "us", or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and related services.
 
 Please read this Privacy Policy carefully. If you do not agree with our policies and practices, please do not use our App.
 
@@ -16,14 +16,14 @@ Please read this Privacy Policy carefully. If you do not agree with our policies
 ## 2. Information We Collect
 
 ### 2.1 Camera Data
-- **What:** When you use the camera feature, WanderAI accesses your device's camera to capture images of landmarks and locations.
+- **What:** When you use the camera feature, PathAIve accesses your device's camera to capture images of landmarks and locations.
 - **How it's used:** Images are sent to Google's Gemini API for real-time AI analysis to identify and provide information about what you're photographing.
 - **Storage:** Images are **NOT stored on our servers**. They are processed in real-time and deleted immediately after analysis.
 - **Your control:** You control when the camera is used. The app requests camera permission before accessing it.
 
 ### 2.2 Photos in Your Gallery
 - **What:** When you save photos with the "Photo" button, the image is stored directly in your device's native photo gallery.
-- **How it's stored:** Photos are saved **only on your device**. They are never uploaded to WanderAI servers.
+- **How it's stored:** Photos are saved **only on your device**. They are never uploaded to PathAIve servers.
 - **Your control:** You can delete photos from your gallery at any time.
 
 ### 2.3 Location Data
@@ -40,7 +40,7 @@ Please read this Privacy Policy carefully. If you do not agree with our policies
 ### 2.5 Subscription Data
 - **What:** If you purchase a subscription, payment and subscription information is handled by RevenueCat.
 - **How it's used:** To manage your subscription status and access levels.
-- **Storage:** RevenueCat handles all payment data. WanderAI does not store payment information.
+- **Storage:** RevenueCat handles all payment data. PathAIve does not store payment information.
 - **Third party:** See RevenueCat's Privacy Policy: <a href="https://www.revenuecat.com/privacy">https://www.revenuecat.com/privacy</a>
 
 ---
@@ -59,13 +59,13 @@ We use collected information to:
 
 ## 4. Third-Party Services
 
-WanderAI uses the following third-party services:
+PathAIve uses the following third-party services:
 
 ### 4.1 Google Gemini API
 - **Purpose:** Real-time image analysis and tour guide content generation
 - **Data Shared:** Images you photograph
 - **Privacy Policy:** <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>
-- **No Data Storage:** Images are not stored by WanderAI; they are processed and deleted by Google according to their policies
+- **No Data Storage:** Images are not stored by PathAIve; they are processed and deleted by Google according to their policies
 
 ### 4.2 RevenueCat
 - **Purpose:** Subscription management and in-app purchase processing
@@ -84,7 +84,7 @@ WanderAI uses the following third-party services:
 
 We implement industry-standard security measures:
 - All data transmitted to third-party APIs uses HTTPS encryption
-- No personal data is stored on WanderAI servers
+- No personal data is stored on PathAIve servers
 - Your photos remain only on your device
 - Location data is processed locally, not uploaded
 - Subscription data is encrypted and handled by RevenueCat
@@ -95,7 +95,7 @@ We implement industry-standard security measures:
 
 ## 6. Children's Privacy
 
-WanderAI is not intended for children under 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will delete such information immediately.
+PathAIve is not intended for children under 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will delete such information immediately.
 
 ---
 
@@ -151,7 +151,7 @@ If you are a California resident, you have specific rights under the California 
 
 ## 12. Cookie & Tracking Notice
 
-WanderAI does not use cookies or tracking technologies to identify you. The app only uses local storage for user preferences and settings on your device.
+PathAIve does not use cookies or tracking technologies to identify you. The app only uses local storage for user preferences and settings on your device.
 
 ---
 
@@ -188,9 +188,9 @@ Subscription Flow:
      ↓
 [App Access Granted]
 
-Note: NO data is sent to WanderAI servers at any point.
+Note: NO data is sent to PathAIve servers at any point.
 ```
 
 ---
 
-**WanderAI respects your privacy. We collect only what we need to deliver an amazing experience.**
+**PathAIve respects your privacy. We collect only what we need to deliver an amazing experience.**
