@@ -154,7 +154,7 @@
         <h1>🗺️ Privacy Policy</h1>
         <div class="meta">
             <p><strong>PathAIve - Immersive Audio Tour Guide</strong></p>
-            <p>Last Updated: February 19, 2026 | Effective Date: February 19, 2026</p>
+            <p>Last Updated: March 14, 2026 | Effective Date: March 14, 2026</p>
         </div>
 
         <h2>1. Overview</h2>
@@ -166,8 +166,8 @@
         <h3>2.1 Camera Data</h3>
         <ul>
             <li><strong>What:</strong> When you use the camera feature, PathAIve accesses your device's camera to capture images of landmarks and locations.</li>
-            <li><strong>How it's used:</strong> Images are sent to Google's Gemini API for real-time AI analysis.</li>
-            <li><strong>Storage:</strong> Images are <span class="highlight">NOT stored on our servers</span>. They are processed in real-time and deleted immediately.</li>
+            <li><strong>How it's used:</strong> Images are sent to Firebase AI / Google AI models for landmark identification and tour-guide generation.</li>
+            <li><strong>Storage:</strong> Images are <span class="highlight">NOT stored on PathAIve servers</span>. They are processed only to fulfill your request and are handled under the applicable provider policies.</li>
             <li><strong>Your control:</strong> You control when the camera is used.</li>
         </ul>
 
@@ -192,7 +192,21 @@
             <li><strong>Your control:</strong> Modify or reset anytime in app settings.</li>
         </ul>
 
-        <h3>2.5 Subscription Data</h3>
+        <h3>2.5 Account &amp; Authentication Data</h3>
+        <ul>
+            <li><strong>What:</strong> If you sign in, Firebase Authentication may process your anonymous account ID, email address, display name, and authentication tokens.</li>
+            <li><strong>How it's used:</strong> To support Sign in with Apple, Google Sign-In, and purchase/account continuity across sessions.</li>
+            <li><strong>Storage:</strong> Authentication data is handled by Firebase Authentication rather than a separate PathAIve account backend.</li>
+        </ul>
+
+        <h3>2.6 Spoken Follow-Up Audio</h3>
+        <ul>
+            <li><strong>What:</strong> If you use spoken follow-up questions, short audio clips, related transcripts, and prompts may be processed.</li>
+            <li><strong>How it's used:</strong> To transcribe your question, generate an answer, and optionally synthesize a spoken reply.</li>
+            <li><strong>Storage:</strong> PathAIve does not store these audio clips on its own servers. Temporary files may exist on your device during playback and processing.</li>
+        </ul>
+
+        <h3>2.7 Subscription Data</h3>
         <ul>
             <li><strong>What:</strong> Payment and subscription information.</li>
             <li><strong>Handling:</strong> Managed by <a href="https://www.revenuecat.com/privacy">RevenueCat</a>. PathAIve does not store payment data.</li>
@@ -210,12 +224,12 @@
 
         <h2>4. Third-Party Services</h2>
         
-        <h3>4.1 Google Gemini API</h3>
+        <h3>4.1 Firebase AI / Google AI Models</h3>
         <ul>
             <li><strong>Purpose:</strong> Real-time image analysis and tour guide generation</li>
-            <li><strong>Data Shared:</strong> Images you photograph</li>
+            <li><strong>Data Shared:</strong> Images you photograph and optional landmark context</li>
             <li><strong>Privacy:</strong> <a href="https://policies.google.com/privacy">Google Privacy Policy</a></li>
-            <li><strong>Storage:</strong> Images not stored by PathAIve</li>
+            <li><strong>Storage:</strong> Images not stored by PathAIve on its own servers</li>
         </ul>
 
         <h3>4.2 RevenueCat</h3>
@@ -227,10 +241,10 @@
 
         <h3>4.3 OpenAI</h3>
         <ul>
-            <li><strong>Purpose:</strong> Text-to-speech voice generation for audio tour guide</li>
-            <li><strong>Data Shared:</strong> Audio recordings of follow-up questions, text prompts</li>
+            <li><strong>Purpose:</strong> Optional spoken follow-up transcription and voice generation</li>
+            <li><strong>Data Shared:</strong> Audio recordings of follow-up questions, transcripts, and text prompts</li>
             <li><strong>Privacy:</strong> <a href="https://openai.com/policies/privacy-policy">OpenAI Privacy Policy</a></li>
-            <li><strong>Storage:</strong> Audio not stored by PathAIve</li>
+            <li><strong>Storage:</strong> Audio not stored by PathAIve on its own servers</li>
         </ul>
 
         <h3>4.4 Firebase Authentication</h3>
@@ -270,8 +284,9 @@
 Camera Images:      Not stored (deleted immediately)
 Photos:             On your device (you can delete)
 Preferences:        Stored locally on device
+Authentication:     Retained by Firebase according to its policies
+Follow-up Audio:    Temporary local files during processing/playback
 Subscription Data:  Retained by RevenueCat for billing
-Analytics:          Retained for 90 days (if enabled)
         </div>
 
         <h2>10. GDPR & CCPA Compliance</h2>
